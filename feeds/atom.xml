@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TheRealJoeDoran</title><link href="https://therealjoedoran.github.io/" rel="alternate"></link><link href="https://therealjoedoran.github.io/feeds/atom.xml" rel="self"></link><id>https://therealjoedoran.github.io/</id><updated>2019-02-16T20:02:00-06:00</updated><entry><title>Offensive Security OSCE Resources</title><link href="https://therealjoedoran.github.io/offensive-security-osce-resources.html" rel="alternate"></link><published>2019-02-16T20:02:00-06:00</published><updated>2019-02-16T20:02:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/offensive-security-osce-resources.html</id><summary type="html">&lt;p&gt;OffSec OSCE Resource Bookmarks&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a place for me to keep OSCE resources. I'll update as I see fit.&lt;/p&gt;
-&lt;p&gt;CTP Syllabus
-https://www.offensive-security.com/documentation/cracking-the-perimeter-syllabus.pdf&lt;/p&gt;
-&lt;p&gt;CTP Registration Challenge
-http://www.fc4.me/&lt;/p&gt;
-&lt;p&gt;Exploit Tutorials
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TheRealJoeDoran</title><link href="https://therealjoedoran.github.io/" rel="alternate"></link><link href="https://therealjoedoran.github.io/feeds/atom.xml" rel="self"></link><id>https://therealjoedoran.github.io/</id><updated>2019-02-16T20:02:00-06:00</updated><entry><title>Offensive Security OSCE Resources</title><link href="https://therealjoedoran.github.io/offensive-security-osce-resources.html" rel="alternate"></link><published>2019-02-16T20:02:00-06:00</published><updated>2019-02-16T20:02:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/offensive-security-osce-resources.html</id><summary type="html">&lt;p&gt;OffSec OSCE Resource Bookmarks&lt;/p&gt;</summary><content type="html">&lt;pre&gt;
+This is a place for me to keep OSCE resources. I'll update as I see fit.
+
+CTP Syllabus
+https://www.offensive-security.com/documentation/cracking-the-perimeter-syllabus.pdf
+
+CTP Registration Challenge
+http://www.fc4.me/
+
+Exploit Tutorials
 http://www.thegreycorner.com/search/label/tutorial
 http://www.fuzzysecurity.com/tutorials.html
-https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/&lt;/p&gt;
-&lt;p&gt;Exploit Development
-https://github.com/stephenbradshaw/vulnserver&lt;/p&gt;
-&lt;p&gt;Registers
+https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/
+
+Exploit Development
+https://github.com/stephenbradshaw/vulnserver
+
+Registers
 https://www.swansontec.com/sregisters.html
-https://wiki.skullsecurity.org/Registers&lt;/p&gt;
-&lt;p&gt;CTP/OSCE Reviews and Guides
+https://wiki.skullsecurity.org/Registers
+
+CTP/OSCE Reviews and Guides
 https://www.securitysift.com/offsec-ctp-osce/
 https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/
 https://www.nearsecurity.com/2018/11/my-journey-into-offsec-abyss-oscp-and.html
 https://www.abatchy.com/2017/03/osce-study-plan
 https://rootkits.xyz/blog/2017/02/osce-ctp-offensive-security/
-http://lmgtfy.com/?q=offsec+osce+exam+guide&lt;/p&gt;</content><category term="offsec"></category><category term="osce"></category><category term="ctp"></category></entry><entry><title>First post with Pelican</title><link href="https://therealjoedoran.github.io/first-post-with-pelican.html" rel="alternate"></link><published>2019-02-16T15:43:00-06:00</published><updated>2019-02-16T15:43:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/first-post-with-pelican.html</id><summary type="html">&lt;p&gt;Test Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is just a test. Move along. :)&lt;/p&gt;</content><category term="General"></category></entry></feed>
+http://lmgtfy.com/?q=offsec+osce+exam+guide
+&lt;/pre&gt;</content><category term="offsec"></category><category term="osce"></category><category term="ctp"></category></entry><entry><title>First post with Pelican</title><link href="https://therealjoedoran.github.io/first-post-with-pelican.html" rel="alternate"></link><published>2019-02-16T15:43:00-06:00</published><updated>2019-02-16T15:43:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/first-post-with-pelican.html</id><summary type="html">&lt;p&gt;Test Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is just a test. Move along. :)&lt;/p&gt;</content><category term="General"></category></entry></feed>
