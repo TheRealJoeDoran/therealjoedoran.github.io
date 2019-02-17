@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>TheRealJoeDoran</title><link href="https://therealjoedoran.github.io/" rel="alternate"></link><link href="https://therealjoedoran.github.io/feeds/atom.xml" rel="self"></link><id>https://therealjoedoran.github.io/</id><updated>2019-02-16T20:02:00-06:00</updated><entry><title>Offensive Security OSCE Resources</title><link href="https://therealjoedoran.github.io/offensive-security-osce-resources.html" rel="alternate"></link><published>2019-02-16T20:02:00-06:00</published><updated>2019-02-16T20:02:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/offensive-security-osce-resources.html</id><summary type="html">&lt;p&gt;OffSec OSCE Resource Bookmarks&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a place for me to keep OSCE resources. I'll update as I see fit.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;CTP Syllabus&lt;br&gt;
-https://www.offensive-security.com/documentation/cracking-the-perimeter-syllabus.pdf&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;a href="https://www.offensive-security.com/documentation/cracking-the-perimeter-syllabus.pdf"&gt;https://www.offensive-security.com/documentation/cracking-the-perimeter-syllabus.pdf&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;CTP Registration Challenge&lt;br&gt;
-http://www.fc4.me/&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;a href="http://www.fc4.me/"&gt;http://www.fc4.me/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Exploit Tutorials&lt;br&gt;
-http://www.thegreycorner.com/search/label/tutorial&lt;br&gt;
-http://www.fuzzysecurity.com/tutorials.html&lt;br&gt;
-https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;a href="http://www.thegreycorner.com/search/label/tutorial"&gt;http://www.thegreycorner.com/search/label/tutorial&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.fuzzysecurity.com/tutorials.html"&gt;http://www.fuzzysecurity.com/tutorials.html&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/"&gt;https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Exploit Development&lt;br&gt;
-https://github.com/stephenbradshaw/vulnserver&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;a href="https://github.com/stephenbradshaw/vulnserver"&gt;https://github.com/stephenbradshaw/vulnserver&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Registers&lt;br&gt;
-https://www.swansontec.com/sregisters.html&lt;br&gt;
-https://wiki.skullsecurity.org/Registers&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;a href="https://www.swansontec.com/sregisters.html"&gt;https://www.swansontec.com/sregisters.html&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://wiki.skullsecurity.org/Registers"&gt;https://wiki.skullsecurity.org/Registers&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;CTP/OSCE Reviews and Guides&lt;br&gt;
-https://www.securitysift.com/offsec-ctp-osce/&lt;br&gt;
-https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/&lt;br&gt;
-https://www.nearsecurity.com/2018/11/my-journey-into-offsec-abyss-oscp-and.html&lt;br&gt;
-https://www.abatchy.com/2017/03/osce-study-plan&lt;br&gt;
-https://rootkits.xyz/blog/2017/02/osce-ctp-offensive-security/&lt;br&gt;
-http://lmgtfy.com/?q=offsec+osce+exam+guide&lt;/p&gt;</content><category term="offsec"></category><category term="osce"></category><category term="ctp"></category></entry><entry><title>First post with Pelican</title><link href="https://therealjoedoran.github.io/first-post-with-pelican.html" rel="alternate"></link><published>2019-02-16T15:43:00-06:00</published><updated>2019-02-16T15:43:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/first-post-with-pelican.html</id><summary type="html">&lt;p&gt;Test Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is just a test. Move along. :)&lt;/p&gt;</content><category term="General"></category></entry></feed>
+&lt;a href="https://www.securitysift.com/offsec-ctp-osce/"&gt;https://www.securitysift.com/offsec-ctp-osce/&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/"&gt;https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.nearsecurity.com/2018/11/my-journey-into-offsec-abyss-oscp-and.html"&gt;https://www.nearsecurity.com/2018/11/my-journey-into-offsec-abyss-oscp-and.html&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.abatchy.com/2017/03/osce-study-plan"&gt;https://www.abatchy.com/2017/03/osce-study-plan&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://rootkits.xyz/blog/2017/02/osce-ctp-offensive-security/"&gt;https://rootkits.xyz/blog/2017/02/osce-ctp-offensive-security/&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://lmgtfy.com/?q=offsec+osce+exam+guide"&gt;http://lmgtfy.com/?q=offsec+osce+exam+guide&lt;/a&gt;&lt;/p&gt;</content><category term="offsec"></category><category term="osce"></category><category term="ctp"></category></entry><entry><title>First post with Pelican</title><link href="https://therealjoedoran.github.io/first-post-with-pelican.html" rel="alternate"></link><published>2019-02-16T15:43:00-06:00</published><updated>2019-02-16T15:43:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/first-post-with-pelican.html</id><summary type="html">&lt;p&gt;Test Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is just a test. Move along. :)&lt;/p&gt;</content><category term="General"></category></entry></feed>
