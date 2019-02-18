@@ -1,0 +1,52 @@
+================================================================== 
+https://keybase.io/therealjoedoran 
+-------------------------------------------------------------------- I 
+hereby claim:
+  * I am an admin of https://therealjoedoran.github.io
+  * I am therealjoedoran (https://keybase.io/therealjoedoran) on 
+keybase.
+  * I have a public key ASAStvIo8wbpCA9O-UFe-j1JEMDIbO2Z-bZWF-nb1GsW9Ao 
+To do so, I am signing this object: {
+  "body": {
+    "key": {
+      "eldest_kid": 
+"0101ebf48056ac5539722b90b56c5a8eaff7e9859c12b90ec4f4f78aaf229432aff20a",
+      "host": "keybase.io",
+      "kid": 
+"012012b6f228f306e9080f4ef9415efa3d4910c0c86ced99f9b65617e9dbd46b16f40a",
+      "uid": "91378b9d1ce5c58d3b9f3917953adb19",
+      "username": "therealjoedoran"
+    },
+    "merkle_root": {
+      "ctime": 1550530474,
+      "hash": 
+"88c997d18b3184ae77b565a5325f46b8e082bc135fb5ae56837b37c8a90082f13870ca4813adf5ada5fab0547f12897543c0cc46f8287cfed58ffe360a11a8e7",
+      "hash_meta": 
+"98a50daadaefd65c24d5542f9af976ef5ce25d0ac7788edce5e70999d1a6cce9",
+      "seqno": 4788499
+    },
+    "service": {
+      "entropy": "xQnNUx1Hl8p5JQ8lxuBTYfSd",
+      "hostname": "therealjoedoran.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550530570,
+  "expire_in": 504576000,
+  "prev": 
+"f1b4c666c3e513cd0385a21f1b701ff7eab8be02b35478c831fa2322e1bfc5cb",
+  "seqno": 13,
+  "tag": "signature"
+}
+which yields the signature: 
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgErbyKPMG6QgPTvlBXvo9SRDAyGztmfm2Vhfp29RrFvQKp3BheWxvYWTESpcCDcQg8bTGZsPlE80DhaIfG3Af9+q4vgKzVHjIMfojIuG/xcvEIMrScQ8k5QcVYPV41CxBfPOd1SdlzyxZM+OSnCcb/Nk9AgHCo3NpZ8RAuan+Sbe8vRy8XLAnQCF+5bb26jVXznENROTWN6+SfHiJACP56I8MfhHcR8SafW7SJEuyCWtUUcyAOkaS7l3nBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINDm02BANpPhVhImLLI7rhg7pYOE+XvwY+TR8klI/HPPo3RhZ80CAqd2ZXJzaW9uAQ== 
+And finally, I am proving ownership of this host by posting or appending 
+to this document. View my publicly-auditable identity here: 
+https://keybase.io/therealjoedoran
+==================================================================
