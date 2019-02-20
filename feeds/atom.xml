@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TheRealJoeDoran</title><link href="https://therealjoedoran.github.io/" rel="alternate"></link><link href="https://therealjoedoran.github.io/feeds/atom.xml" rel="self"></link><id>https://therealjoedoran.github.io/</id><updated>2019-02-16T21:07:00-06:00</updated><entry><title>Offensive Security OSCE Resources</title><link href="https://therealjoedoran.github.io/offensive-security-osce-resources.html" rel="alternate"></link><published>2019-02-16T20:02:00-06:00</published><updated>2019-02-16T21:07:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/offensive-security-osce-resources.html</id><summary type="html">&lt;p&gt;OffSec OSCE Resource Bookmarks&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a place for me to keep OSCE resources. I'll update as I see fit.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TheRealJoeDoran</title><link href="https://therealjoedoran.github.io/" rel="alternate"></link><link href="https://therealjoedoran.github.io/feeds/atom.xml" rel="self"></link><id>https://therealjoedoran.github.io/</id><updated>2019-02-19T20:11:00-06:00</updated><entry><title>Offensive Security OSCE Resources</title><link href="https://therealjoedoran.github.io/offensive-security-osce-resources.html" rel="alternate"></link><published>2019-02-16T20:02:00-06:00</published><updated>2019-02-19T20:11:00-06:00</updated><author><name>TheRealJoeDoran</name></author><id>tag:therealjoedoran.github.io,2019-02-16:/offensive-security-osce-resources.html</id><summary type="html">&lt;p&gt;OffSec OSCE Resource Bookmarks&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a place for me to keep OSCE resources. I'll update as I see fit.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;CTP Syllabus&lt;br&gt;
 &lt;a href="https://www.offensive-security.com/documentation/cracking-the-perimeter-syllabus.pdf"&gt;https://www.offensive-security.com/documentation/cracking-the-perimeter-syllabus.pdf&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;CTP Registration Challenge&lt;br&gt;
@@ -9,6 +9,8 @@
 &lt;a href="http://www.fuzzysecurity.com/tutorials.html"&gt;http://www.fuzzysecurity.com/tutorials.html&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/"&gt;https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Exploit Development&lt;br&gt;
+&lt;a href="http://www.oldapps.com/"&gt;http://www.oldapps.com/&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.oldversion.com/"&gt;http://www.oldversion.com/&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://github.com/stephenbradshaw/vulnserver"&gt;https://github.com/stephenbradshaw/vulnserver&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Registers&lt;br&gt;
 &lt;a href="https://www.swansontec.com/sregisters.html"&gt;https://www.swansontec.com/sregisters.html&lt;/a&gt;&lt;br&gt;
