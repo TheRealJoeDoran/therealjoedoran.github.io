@@ -5,8 +5,8 @@
 &lt;p&gt;CTP Registration Challenge&lt;br&gt;
 &lt;a href="http://www.fc4.me/"&gt;http://www.fc4.me/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Exploit Tutorials&lt;br&gt;
-These are the exploit tutorials I have been through, and the order in which I recommend going through them.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;The Grey Corner - &lt;a href="https://resources.infosecinstitute.com/intro-to-fuzzing/"&gt;Intro to Fuzzing using Spike and Vulnserver&lt;/a&gt;&lt;br&gt;
+These are the exploit tutorials I have been through, and the order in which I recommend going through them.&lt;br&gt;
+The Grey Corner - &lt;a href="https://resources.infosecinstitute.com/intro-to-fuzzing/"&gt;Intro to Fuzzing using Spike and Vulnserver&lt;/a&gt;&lt;br&gt;
 The Grey Corner - &lt;a href="https://resources.infosecinstitute.com/fuzzer-automation-with-spike/"&gt;Fuzzer Authomation with Spike and Vulnserver&lt;/a&gt;&lt;br&gt;
 The Grey Corner - &lt;a href="https://resources.infosecinstitute.com/debugging-fundamentals-for-exploit-development/"&gt;Debugging Fundamentals for Exploit Development Part I&lt;/a&gt;&lt;br&gt;
 The Grey Corner - &lt;a href="https://resources.infosecinstitute.com/in-depth-seh-exploit-writing-tutorial-using-ollydbg/"&gt;Debugging Fundamentals for Exploit Development Part II&lt;/a&gt;&lt;br&gt;
@@ -16,9 +16,9 @@ The Grey Corner - &lt;a href="http://resources.infosecinstitute.com/?p=661"&gt;S
 Fuzzy Security - &lt;a href="http://www.fuzzysecurity.com/tutorials/expDev/1.html"&gt;Intro to Exploit Development&lt;/a&gt;&lt;br&gt;
 Fuzzy Security - &lt;a href="http://www.fuzzysecurity.com/tutorials/expDev/2.html"&gt;Saved Return Pointer Overflows&lt;/a&gt;&lt;br&gt;
 Corelan - &lt;a href="https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/"&gt;Stack-based Overflows&lt;/a&gt;&lt;br&gt;
-Corelan - &lt;a href="https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/"&gt;Stack-based Overflows - jumping to shellcode&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;These are the larger collections of tutorials from each of the entities providing the tutorials referenced within this section.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.thegreycorner.com/search/label/tutorial"&gt;Additional Tutorials from The Grey Corner&lt;/a&gt;&lt;br&gt;
+Corelan - &lt;a href="https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/"&gt;Stack-based Overflows - jumping to shellcode&lt;/a&gt;&lt;br&gt;
+These are the larger collections of tutorials from each of the entities providing the tutorials referenced within this section.&lt;br&gt;
+&lt;a href="http://www.thegreycorner.com/search/label/tutorial"&gt;Additional Tutorials from The Grey Corner&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://www.fuzzysecurity.com/tutorials.html"&gt;Additional Tutorials from Fuzzy Security&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/"&gt;Additional Tutorials from Corelan&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Exploitable Apps&lt;br&gt;
