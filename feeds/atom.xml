@@ -15,8 +15,8 @@ These are the exploit tutorials I have been through, and the order in which I re
 &lt;a href="http://resources.infosecinstitute.com/?p=661"&gt;The Grey Corner - Stack-based Buffer Overflow Part III&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://www.fuzzysecurity.com/tutorials/expDev/1.html"&gt;Fuzzy Security - Intro to Exploit Development&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://www.fuzzysecurity.com/tutorials/expDev/2.html"&gt;Fuzzy Security - Saved Return Pointer Overflows&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/"&gt;Corlan - Stack-based Overflows&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/"&gt;Corlan - Stack-based Overflows - jumping to shellcode&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/"&gt;Corelan - Stack-based Overflows&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/"&gt;Corelan - Stack-based Overflows - jumping to shellcode&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://www.fuzzysecurity.com/tutorials/expDev/3.html"&gt;Fuzzy Security - Structured Exception Handler&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;These are the larger collections of tutorials from each of the entities providing the tutorials referenced within this section.&lt;br&gt;
 &lt;a href="http://www.thegreycorner.com/search/label/tutorial"&gt;Additional Tutorials from The Grey Corner&lt;/a&gt;&lt;br&gt;
